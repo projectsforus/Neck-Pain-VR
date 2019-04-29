@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: f23cdc48d1b841b46824907b9f0889c6
+timeCreated: 1539759483
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chair_01_polySurface1
+    100002: Chair_02_polySurface1
+    100004: Chair_03_polySurface1
+    100006: Chair_04_polySurface1
+    100008: Chair_05_polySurface1
+    100010: Chair_06_polySurface1
+    100012: //RootNode
+    100014: Fruits_Apple04_pSphere1
+    100016: Fruits_Apple_01_pSphere1
+    100018: Fruits_Apple_02_pSphere1
+    100020: Fruits_Apple_03_pSphere1
+    100022: Fruits_Apple_05_pSphere1
+    100024: Fruits_pCylinder2_Apple04
+    100026: Fruits_pCylinder2_Apple_01
+    100028: Fruits_pCylinder2_Apple_02
+    100030: Fruits_pCylinder2_Apple_03
+    100032: Fruits_pCylinder2_Apple_05
+    100034: FruitsGlass_Fruits
+    100036: pCylinder1_Chair_01
+    100038: pCylinder1_Chair_02
+    100040: pCylinder1_Chair_03
+    100042: pCylinder1_Chair_04
+    100044: pCylinder1_Chair_05
+    100046: pCylinder1_Chair_06
+    100048: pPlane7_Table
+    100050: Table_pPlane3
+    100052: Table_pPlane4
+    100054: Table_pPlane8
+    100056: Table_pPlane9
+    100058: Table_pTorus1
+    400000: Chair_01_polySurface1
+    400002: Chair_02_polySurface1
+    400004: Chair_03_polySurface1
+    400006: Chair_04_polySurface1
+    400008: Chair_05_polySurface1
+    400010: Chair_06_polySurface1
+    400012: //RootNode
+    400014: Fruits_Apple04_pSphere1
+    400016: Fruits_Apple_01_pSphere1
+    400018: Fruits_Apple_02_pSphere1
+    400020: Fruits_Apple_03_pSphere1
+    400022: Fruits_Apple_05_pSphere1
+    400024: Fruits_pCylinder2_Apple04
+    400026: Fruits_pCylinder2_Apple_01
+    400028: Fruits_pCylinder2_Apple_02
+    400030: Fruits_pCylinder2_Apple_03
+    400032: Fruits_pCylinder2_Apple_05
+    400034: FruitsGlass_Fruits
+    400036: pCylinder1_Chair_01
+    400038: pCylinder1_Chair_02
+    400040: pCylinder1_Chair_03
+    400042: pCylinder1_Chair_04
+    400044: pCylinder1_Chair_05
+    400046: pCylinder1_Chair_06
+    400048: pPlane7_Table
+    400050: Table_pPlane3
+    400052: Table_pPlane4
+    400054: Table_pPlane8
+    400056: Table_pPlane9
+    400058: Table_pTorus1
+    2100000: Chair_01_polySurface1Mat
+    2100002: Chair_02_polySurface1Mat
+    2100004: Chair_03_polySurface1Mat
+    2100006: Chair_04_polySurface1Mat
+    2100008: Chair_05_polySurface1Mat
+    2100010: Chair_06_polySurface1Mat
+    2100012: Fruits_Apple04_pSphere1Mat
+    2100014: Fruits_Apple_01_pSphere1Mat
+    2100016: Fruits_Apple_02_pSphere1Mat
+    2100018: Fruits_Apple_03_pSphere1Mat
+    2100020: Fruits_Apple_05_pSphere1Mat
+    2100022: Fruits_pCylinder2_Apple04Mat
+    2100024: Fruits_pCylinder2_Apple_01Mat
+    2100026: Fruits_pCylinder2_Apple_02Mat
+    2100028: Fruits_pCylinder2_Apple_03Mat
+    2100030: Fruits_pCylinder2_Apple_05Mat
+    2100032: FruitsGlass_FruitsMat
+    2100034: pCylinder1_Chair_01Mat
+    2100036: pCylinder1_Chair_02Mat
+    2100038: pCylinder1_Chair_03Mat
+    2100040: pCylinder1_Chair_04Mat
+    2100042: pCylinder1_Chair_05Mat
+    2100044: pCylinder1_Chair_06Mat
+    2100046: pPlane7_TableMat
+    2100048: Table_pPlane3Mat
+    2100050: Table_pPlane4Mat
+    2100052: Table_pPlane8Mat
+    2100054: Table_pPlane9Mat
+    2100056: Table_pTorus1Mat
+    2300000: Chair_01_polySurface1
+    2300002: Chair_02_polySurface1
+    2300004: Chair_03_polySurface1
+    2300006: Chair_04_polySurface1
+    2300008: Chair_05_polySurface1
+    2300010: Chair_06_polySurface1
+    2300012: Fruits_Apple04_pSphere1
+    2300014: Fruits_Apple_01_pSphere1
+    2300016: Fruits_Apple_02_pSphere1
+    2300018: Fruits_Apple_03_pSphere1
+    2300020: Fruits_Apple_05_pSphere1
+    2300022: Fruits_pCylinder2_Apple04
+    2300024: Fruits_pCylinder2_Apple_01
+    2300026: Fruits_pCylinder2_Apple_02
+    2300028: Fruits_pCylinder2_Apple_03
+    2300030: Fruits_pCylinder2_Apple_05
+    2300032: FruitsGlass_Fruits
+    2300034: pCylinder1_Chair_01
+    2300036: pCylinder1_Chair_02
+    2300038: pCylinder1_Chair_03
+    2300040: pCylinder1_Chair_04
+    2300042: pCylinder1_Chair_05
+    2300044: pCylinder1_Chair_06
+    2300046: pPlane7_Table
+    2300048: Table_pPlane3
+    2300050: Table_pPlane4
+    2300052: Table_pPlane8
+    2300054: Table_pPlane9
+    2300056: Table_pTorus1
+    3300000: Chair_01_polySurface1
+    3300002: Chair_02_polySurface1
+    3300004: Chair_03_polySurface1
+    3300006: Chair_04_polySurface1
+    3300008: Chair_05_polySurface1
+    3300010: Chair_06_polySurface1
+    3300012: Fruits_Apple04_pSphere1
+    3300014: Fruits_Apple_01_pSphere1
+    3300016: Fruits_Apple_02_pSphere1
+    3300018: Fruits_Apple_03_pSphere1
+    3300020: Fruits_Apple_05_pSphere1
+    3300022: Fruits_pCylinder2_Apple04
+    3300024: Fruits_pCylinder2_Apple_01
+    3300026: Fruits_pCylinder2_Apple_02
+    3300028: Fruits_pCylinder2_Apple_03
+    3300030: Fruits_pCylinder2_Apple_05
+    3300032: FruitsGlass_Fruits
+    3300034: pCylinder1_Chair_01
+    3300036: pCylinder1_Chair_02
+    3300038: pCylinder1_Chair_03
+    3300040: pCylinder1_Chair_04
+    3300042: pCylinder1_Chair_05
+    3300044: pCylinder1_Chair_06
+    3300046: pPlane7_Table
+    3300048: Table_pPlane3
+    3300050: Table_pPlane4
+    3300052: Table_pPlane8
+    3300054: Table_pPlane9
+    3300056: Table_pTorus1
+    4300000: Chair_01_polySurface1
+    4300002: Chair_02_polySurface1
+    4300004: Chair_03_polySurface1
+    4300006: Chair_04_polySurface1
+    4300008: Chair_05_polySurface1
+    4300010: Chair_06_polySurface1
+    4300012: Fruits_Apple04_pSphere1
+    4300014: Fruits_Apple_01_pSphere1
+    4300016: Fruits_Apple_02_pSphere1
+    4300018: Fruits_Apple_03_pSphere1
+    4300020: Fruits_Apple_05_pSphere1
+    4300022: Fruits_pCylinder2_Apple04
+    4300024: Fruits_pCylinder2_Apple_01
+    4300026: Fruits_pCylinder2_Apple_02
+    4300028: Fruits_pCylinder2_Apple_03
+    4300030: Fruits_pCylinder2_Apple_05
+    4300032: FruitsGlass_Fruits
+    4300034: pCylinder1_Chair_01
+    4300036: pCylinder1_Chair_02
+    4300038: pCylinder1_Chair_03
+    4300040: pCylinder1_Chair_04
+    4300042: pCylinder1_Chair_05
+    4300044: pCylinder1_Chair_06
+    4300046: pPlane7_Table
+    4300048: Table_pPlane3
+    4300050: Table_pPlane4
+    4300052: Table_pPlane8
+    4300054: Table_pPlane9
+    4300056: Table_pTorus1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_01_polySurface1Mat
+    second: {fileID: 2100000, guid: 056e237802de8f6429e7261172891616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_02_polySurface1Mat
+    second: {fileID: 2100000, guid: ce93a6b85c48ed84890288b39f3fab9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_03_polySurface1Mat
+    second: {fileID: 2100000, guid: 447b537b84c7aef46865daa83c92ba95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_04_polySurface1Mat
+    second: {fileID: 2100000, guid: 72bc990643eda0b4aa04f69c90bde01a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_05_polySurface1Mat
+    second: {fileID: 2100000, guid: d01da7b6a236c7c42ad55c4f61f094f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_06_polySurface1Mat
+    second: {fileID: 2100000, guid: eb59ee28480671341900ae2a839fe735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FruitsGlass_FruitsMat
+    second: {fileID: 2100000, guid: a7ba6b02a10db4743ba950dc17d29777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_Apple04_pSphere1Mat
+    second: {fileID: 2100000, guid: f9fdbd0c3e64f6d489f41c7d73c5b111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_Apple_01_pSphere1Mat
+    second: {fileID: 2100000, guid: f3e7cb9ee24b0b64ab3849f15c601784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_Apple_02_pSphere1Mat
+    second: {fileID: 2100000, guid: 1be9407111e9ce54fa2adb93a683f0ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_Apple_03_pSphere1Mat
+    second: {fileID: 2100000, guid: ba1b88c986767ce4fb50a42986d343a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_Apple_05_pSphere1Mat
+    second: {fileID: 2100000, guid: f10cb12d01d0a6947864036698715817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_pCylinder2_Apple04Mat
+    second: {fileID: 2100000, guid: 91c0c6adc82aadb41a1cff2536df9260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_pCylinder2_Apple_01Mat
+    second: {fileID: 2100000, guid: 24fd4b79fc57c4c41b97777ecc7a1890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_pCylinder2_Apple_02Mat
+    second: {fileID: 2100000, guid: eac152fb8c4bcd14686b58ea849f4187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_pCylinder2_Apple_03Mat
+    second: {fileID: 2100000, guid: e83d28edb6a9e5e43a2d1e7fa94ad0f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruits_pCylinder2_Apple_05Mat
+    second: {fileID: 2100000, guid: 2493e64982df8d349b8b64f67f6fd734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_pPlane3Mat
+    second: {fileID: 2100000, guid: 0e9a5d07c7f0002418d817540283048b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_pPlane4Mat
+    second: {fileID: 2100000, guid: 65dd363403c85a444a6103d370837c9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_pPlane8Mat
+    second: {fileID: 2100000, guid: 9bce3c346b604bf4a916e656432874b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_pPlane9Mat
+    second: {fileID: 2100000, guid: f9e94975158167e4986c8b40274b014f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_pTorus1Mat
+    second: {fileID: 2100000, guid: 1b67fa42fc4997a4e97f13b449adef9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder1_Chair_01Mat
+    second: {fileID: 2100000, guid: 9121314ea8f57384286cdfc4c8b69278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder1_Chair_02Mat
+    second: {fileID: 2100000, guid: 836fe2b97e9b28d45a1e1788f422ee32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder1_Chair_03Mat
+    second: {fileID: 2100000, guid: 25fd58f39c25f994eb053a5712e03167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder1_Chair_04Mat
+    second: {fileID: 2100000, guid: a9b3afd6744898e43a9a807dd04b5a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder1_Chair_05Mat
+    second: {fileID: 2100000, guid: 26aeb89bf4fd63946ba1ff42098548db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder1_Chair_06Mat
+    second: {fileID: 2100000, guid: 41fc2e16cb7f8c246861a74a367badaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane7_TableMat
+    second: {fileID: 2100000, guid: 8f1ec1836779e8c4faf8aa471ce9e025, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.07
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
